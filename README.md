@@ -1,1 +1,1 @@
-# InfiniteList
+# InfinityList
